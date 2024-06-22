@@ -7,7 +7,7 @@ package Entidades;
 
 /**
  *
- * @author josem
+ * @author JMendez
  */
 public class E_Productos {
     private String id ="";

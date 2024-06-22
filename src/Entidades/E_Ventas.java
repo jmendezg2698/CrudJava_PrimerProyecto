@@ -3,7 +3,7 @@ package Entidades;
 
 /**
  *
- * @author Jessica
+ * @author JMendez
  */
 public class E_Ventas {
     

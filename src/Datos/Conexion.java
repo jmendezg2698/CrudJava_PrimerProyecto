@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Jessica
+ * @author JMendez
  */
 public class Conexion {
 
@@ -17,7 +17,7 @@ public class Conexion {
     private static final String server = "jdbc:sqlserver://localhost;";
     private static final String namedb = "databaseName=PRUEBA;";
     private static final String user = "user=JMENDEZ;";
-    private static final String pass = "password=M10006912$;";
+    private static final String pass = "password=M10006912$";
     private static final String url = server + namedb + user + pass;
     private Connection con = null;
 

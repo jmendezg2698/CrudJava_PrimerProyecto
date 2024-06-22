@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Jessica
+ * @author JMendez
  */
 public class VistaProductos extends javax.swing.JFrame {
 

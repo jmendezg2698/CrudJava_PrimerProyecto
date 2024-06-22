@@ -2,7 +2,7 @@ package Vistas;
 
 /**
  *
- * @author Jessica
+ * @author JMendez
  */
 public class MenuPrincipal extends javax.swing.JFrame {
 

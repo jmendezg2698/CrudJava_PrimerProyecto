@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  *
- * @author Jessica
+ * @author JMendez
  */
 public class Consultas {
 
